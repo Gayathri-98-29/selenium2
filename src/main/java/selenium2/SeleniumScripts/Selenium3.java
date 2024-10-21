@@ -16,8 +16,8 @@ public class Selenium3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//faceBook();	
-		draganddrop();}
+		faceBook();	
+		}
 
 		// TODO Auto-generated method stub
 		
